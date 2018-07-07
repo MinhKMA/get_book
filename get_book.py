@@ -1,6 +1,4 @@
 #!/home/minhkma/environments/env36/bin/python3.6
-
-
 import requests
 import bs4
 
